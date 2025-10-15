@@ -1,4 +1,5 @@
-# IELTS Vocab Snake Game 项目展示
+# Smart Greedy Snake:
+# Multi-Mode English Learning Game项目展示
 
 ## 项目介绍
 这是一个结合贪吃蛇游戏与雅思单词学习的教育类游戏，通过游戏化方式帮助用户记忆雅思词汇。
