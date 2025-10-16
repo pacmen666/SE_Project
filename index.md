@@ -16,3 +16,5 @@
 
 ## 代码仓库
 [查看源代码](https://github.com/pacmen666/SE_Project)
+## demo演示
+https://m.bilibili.com/video/BV1AYWYzVEEw
